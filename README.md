@@ -40,4 +40,4 @@ HyperOS Mod Global by @LeoUuUr
 - @MMETMA
 - Kronos Mods (https://t.me/KronosMods)
 - @XraF1taX for test
-- As always, special thanks to @zGonzah for all the help. 🫰🏼- @kakashi1v1 for help
+- As always, special thanks to @zGonzah for all the help.
