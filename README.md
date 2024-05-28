@@ -5,7 +5,7 @@ Rom maked by @LeoUuUr
 HyperOS Mod Global by @LeoUuUr
 
 ## Download
-- [A13 SPES/N)](https://drive.google.com/file/d/1m5T3E7FNJwrcIYaj90p5jAxllcoj1vZ8/view?usp=sharing)
+- [A13 SPES/N](https://drive.google.com/file/d/1m5T3E7FNJwrcIYaj90p5jAxllcoj1vZ8/view?usp=sharing)
 
 
 ## Notes:
