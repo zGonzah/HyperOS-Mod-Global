@@ -13,7 +13,7 @@ HyperOS Mod Global by @LeoUuUr
 - If u find a bug, report it in the support group.
 
 
-## Changelog 11/04/2024
+## Changelog 28/5/2024
 - Signature verification disabled by default.
 - Fully R/W.
 - Blur enabled by default.
