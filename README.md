@@ -1,10 +1,10 @@
-# HyperOS-Mod-Surya
+# HyperOS-Mod-Spes
 ![HyperOS banner](https://github.com/zGonzah/HyperOS-Mod-Global/assets/83481962/20e2af71-7c99-4984-8b94-ad61b85d3a97)
 
-HyperOS Mod Surya by @zGonzah
+HyperOS Mod Spes by @LeoUuUr
 
 ## Download
-- [A13 Surya/Karna](https://drive.google.com/file/d/1m5T3E7FNJwrcIYaj90p5jAxllcoj1vZ8/view?usp=sharing)
+- [A13 Spes/N](https://drive.google.com/file/d/1m5T3E7FNJwrcIYaj90p5jAxllcoj1vZ8/view?usp=sharing)
 
 
 ## Notes:
@@ -39,4 +39,3 @@ HyperOS Mod Surya by @zGonzah
 - @MMETMA
 - Kronos Mods (https://t.me/KronosMods)
 - @XraF1taX for test
-- @LeoUuUr for his rom
