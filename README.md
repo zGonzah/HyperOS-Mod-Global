@@ -1,11 +1,10 @@
-# HyperOS-Mod-Global
-Rom maked by @LeoUuUr
+# HyperOS-Mod-Surya
 ![HyperOS banner](https://github.com/zGonzah/HyperOS-Mod-Global/assets/83481962/20e2af71-7c99-4984-8b94-ad61b85d3a97)
 
-HyperOS Mod Global by @LeoUuUr
+HyperOS Mod Surya by @zGonzah
 
 ## Download
-- [A13 SPES/N](https://drive.google.com/file/d/1m5T3E7FNJwrcIYaj90p5jAxllcoj1vZ8/view?usp=sharing)
+- [A13 Surya/Karna](https://drive.google.com/file/d/1m5T3E7FNJwrcIYaj90p5jAxllcoj1vZ8/view?usp=sharing)
 
 
 ## Notes:
@@ -40,4 +39,4 @@ HyperOS Mod Global by @LeoUuUr
 - @MMETMA
 - Kronos Mods (https://t.me/KronosMods)
 - @XraF1taX for test
-- As always, special thanks to @zGonzah for all the help.
+- @LeoUuUr for his rom
